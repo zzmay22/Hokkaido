@@ -1,9 +1,9 @@
 {
   "v": 5,
-  "updatedAt": 1795072767596,
+  "updatedAt": 1795072790912,
   "doc": {
     "v": 5,
-    "updatedAt": 1795072767596,
+    "updatedAt": 1795072790912,
     "tx": {
       "bud_3_p": "機場巴士 437、JR 周遊券 2,420、JR 周遊券 2,200、富良野巴士 110、旭川公車 220、登別公車 200、札幌交通 400",
       "bud_0_v": "NT$ 24,291",
@@ -966,7 +966,7 @@
       {
         "id": "vid_1",
         "t": "富良野鐵道之旅",
-        "s": "美瑛、旭川",
+        "s": "美瑛、旭川 by Maibaru Travel",
         "url": "https://youtu.be/6fL9aDhAlzs?si=NzhfZsdd2LshO8du",
         "img": "6956c356732e5a56535ba3eae46e9079"
       },
